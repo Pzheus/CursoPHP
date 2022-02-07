@@ -1,0 +1,1 @@
+<?php //código de abertura pra o PHP
